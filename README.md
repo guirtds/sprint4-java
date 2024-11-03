@@ -8,13 +8,11 @@
 
 - Acessar Link para vídeo do Projeto: https://www.youtube.com/watch?v=Pz85ywx5Fgc
 
-# 🚀 Tecnologias Utilizadas
+### 🚀 Tecnologias Utilizadas
 - Java 17: Linguagem de programação principal.
 - Spring Boot: Framework que facilita o desenvolvimento e configurações.
-- Azure DevOps: Ferramenta utilizada para configurar a pipeline CI/CD.
-- Azure App Services: Serviço em nuvem utilizado para hospedar a aplicação.
 
-# 📌 Como Executar Localmente
+### 📌 Como Executar Localmente
 Para testar o projeto localmente, siga as etapas abaixo:
 
 1. Clone o repositório: 
